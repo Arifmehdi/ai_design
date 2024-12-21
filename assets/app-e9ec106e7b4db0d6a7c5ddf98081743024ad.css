@@ -2148,7 +2148,8 @@ select {
 .border-yellow-500 {
     --tw-border-opacity: 1;
     /* border-color: rgb(234 179 8/var(--tw-border-opacity)) */
-    border-color: rgb(5, 56, 68)
+    border-color: #14A800
+    
 }
 
 .border-\[\#EBEDEF\] {
@@ -2193,7 +2194,7 @@ select {
 .bg-zinc-900 {
     --tw-bg-opacity: 1;
     /* background-color: rgb(24 24 27/var(--tw-bg-opacity)) */
-    background-color: rgb(30, 30, 132)
+    background-color: #14A800
 }
 
 .bg-blue-500 {
@@ -2219,7 +2220,7 @@ select {
 .bg-yellow-500 {
     --tw-bg-opacity: 1;
     /* background-color: rgb(234 179 8/var(--tw-bg-opacity)) */
-    background-color: rgb(5, 56, 68)
+    background-color: #14A800
 }
 
 .bg-blue-100 {
@@ -2728,7 +2729,7 @@ select {
 .text-yellow-500 {
     --tw-text-opacity: 1;
     /* color: rgb(234 179 8/var(--tw-text-opacity)) */
-    color: rgb(5, 56, 68)
+    color: #14A800
 }
 
 .text-gray-700 {
@@ -2739,7 +2740,7 @@ select {
 .text-yellow-400 {
     --tw-text-opacity: 1;
     /* color: rgb(250 204 21/var(--tw-text-opacity)) */
-    color: rgb(5, 56, 68)
+    color: #14A800
 }
 
 .text-\[\#8F9ABD\] {
@@ -2755,7 +2756,7 @@ select {
 .text-yellow-600 {
     --tw-text-opacity: 1;
     /* color: rgb(202 138 4/var(--tw-text-opacity)) */
-    color: rgb(5, 56, 68)
+    color: #14A800
 }
 
 .text-gray-900 {
@@ -3248,7 +3249,8 @@ select {
 .hover\:bg-yellow-600:hover {
     --tw-bg-opacity: 1;
     /* background-color: rgb(202 138 4/var(--tw-bg-opacity)) */
-    background-color: rgb(5, 56, 68)
+    /* background-color: #14A800 */
+    background-color: rgb(63 63 70/var(--tw-bg-opacity))
 }
 
 .hover\:bg-zinc-600:hover {
